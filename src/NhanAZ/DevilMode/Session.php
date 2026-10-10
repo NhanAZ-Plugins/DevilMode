@@ -35,7 +35,7 @@ final class Session {
 		return $this->devilMode;
 	}
 
-	public function setDevilMode(bool $devilMode) {
+	public function setDevilMode(bool $devilMode): void {
 		$this->devilMode = $devilMode;
 	}
 }

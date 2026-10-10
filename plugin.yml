@@ -1,15 +1,17 @@
 ---
 name: DevilMode
-version: 0.0.4
+version: 0.0.5
 main: NhanAZ\DevilMode\Main
 api: 5.0.0
 author: NhanAZ
 description: Players will not take damage when Devil Mode is enabled
+website: https://github.com/NhanAZ-Plugins/DevilMode
 
 commands:
   devil:
     description: "Will not take damage when Devil Mode is enabled"
     permission: devil.command
+    usage: /devil
 
 permissions:
   devil.command:
