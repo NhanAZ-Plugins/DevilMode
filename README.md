@@ -1,8 +1,15 @@
 # DevilMode
 
-DevilMode lets a player toggle protection from damage and exhaustion on an Axolotl-PM server.
+Toggle player protection from damage and exhaustion on Axolotl-PM
 
-[![Build and validate DevilMode plugin](https://github.com/NhanAZ-Plugins/DevilMode/actions/workflows/build.yml/badge.svg)](https://github.com/NhanAZ-Plugins/DevilMode/actions/workflows/build.yml)
+[![CI](https://github.com/NhanAZ-Plugins/DevilMode/actions/workflows/build.yml/badge.svg)](https://github.com/NhanAZ-Plugins/DevilMode/actions/workflows/build.yml)
+[![Latest release](https://img.shields.io/github/v/release/NhanAZ-Plugins/DevilMode)](https://github.com/NhanAZ-Plugins/DevilMode/releases/latest)
+[![License](https://img.shields.io/github/license/NhanAZ-Plugins/DevilMode)](https://github.com/NhanAZ-Plugins/DevilMode/blob/master/LICENSE)
+[![Discord](https://img.shields.io/discord/986553214889517088?label=Discord&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/j2X83ujT6c)
+
+## Overview
+
+This plugin targets the PocketMine-MP and Axolotl-PM API 5 ecosystem and is maintained under [NhanAZ-Plugins](https://github.com/NhanAZ-Plugins).
 
 ## Features
 
